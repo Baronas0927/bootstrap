@@ -1,0 +1,13 @@
+col square {
+    background-color: lightblue;
+    height: 50px;
+    border: 10px;
+    border-color: rgb(239, 239, 13);
+  }
+  .big{
+    height: 400px;
+  }
+
+  .small{
+    height: 200px;
+  }
